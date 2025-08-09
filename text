@@ -1,0 +1,26 @@
+portfolio-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/
+│   │   └── your-photo.jpg  // [Place your profile image here]
+│   ├── components/
+│   │   ├── Section.js
+│   │   ├── NavItem.js
+│   │   ├── Header.js
+│   │   ├── Hero.js
+│   │   ├── About.js
+│   │   ├── Experience.js
+│   │   ├── Skills.js
+│   │   ├── Awards.js
+│   │   ├── Certifications.js
+│   │   ├── Footer.js
+│   │   └── ScrollToTop.js
+│   ├── data/
+│   │   └── portfolioData.js
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+├── package.json
+├── README.md
+└── .gitignore
